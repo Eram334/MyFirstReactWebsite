@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/MyFirstReactWebsite/static/css/main.82397b46.chunk.css",
+    "main.js": "/MyFirstReactWebsite/static/js/main.c153d36f.chunk.js",
+    "main.js.map": "/MyFirstReactWebsite/static/js/main.c153d36f.chunk.js.map",
+    "runtime-main.js": "/MyFirstReactWebsite/static/js/runtime-main.5a55e921.js",
+    "runtime-main.js.map": "/MyFirstReactWebsite/static/js/runtime-main.5a55e921.js.map",
+    "static/css/2.0a4eb653.chunk.css": "/MyFirstReactWebsite/static/css/2.0a4eb653.chunk.css",
+    "static/js/2.785301f3.chunk.js": "/MyFirstReactWebsite/static/js/2.785301f3.chunk.js",
+    "static/js/2.785301f3.chunk.js.map": "/MyFirstReactWebsite/static/js/2.785301f3.chunk.js.map",
+    "static/js/3.578aa3a3.chunk.js": "/MyFirstReactWebsite/static/js/3.578aa3a3.chunk.js",
+    "static/js/3.578aa3a3.chunk.js.map": "/MyFirstReactWebsite/static/js/3.578aa3a3.chunk.js.map",
+    "index.html": "/MyFirstReactWebsite/index.html",
+    "static/css/2.0a4eb653.chunk.css.map": "/MyFirstReactWebsite/static/css/2.0a4eb653.chunk.css.map",
+    "static/css/main.82397b46.chunk.css.map": "/MyFirstReactWebsite/static/css/main.82397b46.chunk.css.map",
+    "static/js/2.785301f3.chunk.js.LICENSE.txt": "/MyFirstReactWebsite/static/js/2.785301f3.chunk.js.LICENSE.txt",
+    "static/media/card.65378ba7.jpg": "/MyFirstReactWebsite/static/media/card.65378ba7.jpg",
+    "static/media/hero.0d4251af.jpg": "/MyFirstReactWebsite/static/media/hero.0d4251af.jpg",
+    "static/media/web.46329a14.JPG": "/MyFirstReactWebsite/static/media/web.46329a14.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a55e921.js",
+    "static/css/2.0a4eb653.chunk.css",
+    "static/js/2.785301f3.chunk.js",
+    "static/css/main.82397b46.chunk.css",
+    "static/js/main.c153d36f.chunk.js"
+  ]
+}
